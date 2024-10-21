@@ -1,0 +1,52 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsSingle
+  Caption = 'Vendorit'
+  ClientHeight = 602
+  ClientWidth = 856
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  Menu = mainMenu
+  Position = poScreenCenter
+  WindowState = wsMaximized
+  TextHeight = 15
+  object mainMenu: TMainMenu
+    Left = 824
+    Top = 568
+    object Arquivo1: TMenuItem
+      Caption = 'Arquivo'
+      object Sair1: TMenuItem
+        Caption = 'Sair'
+        ShortCut = 32883
+        OnClick = Sair1Click
+      end
+    end
+    object Arquivo2: TMenuItem
+      Caption = 'Estoque'
+    end
+    object Vendas1: TMenuItem
+      Caption = 'Vendas'
+    end
+    object Usurios1: TMenuItem
+      Caption = 'Usu'#225'rios'
+    end
+    object Ferramentas1: TMenuItem
+      Caption = 'Ferramentas'
+    end
+    object Ajuda1: TMenuItem
+      Caption = 'Ajuda'
+      object SobreoSistema1: TMenuItem
+        Caption = 'Sobre o Sistema'
+      end
+      object Documentao1: TMenuItem
+        Caption = 'Documenta'#231#227'o'
+      end
+    end
+  end
+end

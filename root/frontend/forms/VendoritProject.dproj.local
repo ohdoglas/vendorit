@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/17 19:41:57.000.364,=C:\Users\dughlaisdd\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/18 21:36:36.000.037,=C:\Users\dughlaisdd\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/18 23:31:07.000.883,=C:\Users\dughlaisdd\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/20 17:45:10.570,=C:\Users\dughlaisdd\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/20 17:47:02.857,C:\Users\dughlaisdd\Desktop\PDV-ERP\Proejto\vendorit\root\frontend\forms\unitPrincipal.pas=C:\Users\dughlaisdd\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/20 17:47:02.857,C:\Users\dughlaisdd\Desktop\PDV-ERP\Proejto\vendorit\root\frontend\forms\unitPrincipal.dfm=C:\Users\dughlaisdd\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/10/20 17:47:17.707,C:\Users\dughlaisdd\Desktop\PDV-ERP\Proejto\vendorit\root\frontend\forms\VendoritProject.dproj=C:\Users\dughlaisdd\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
